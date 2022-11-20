@@ -5,8 +5,9 @@ Stat Analysis for NAVER News
 
 ***
 
-
+<!--
 <a href = "https://developers.naver.com/main/"><img src = "./1. NAVER OpenAPI_c.png" style="float:right; width:700px; height:60px;" alt = "NAVER"></a>
+-->
 
 <a href = "https://developers.naver.com/main/"> Naver Developers</a>
 
