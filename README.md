@@ -9,7 +9,7 @@ Stat Analysis for NAVER News
 <a href = "https://developers.naver.com/main/"><img src = "./1. NAVER OpenAPI_c.png" style="float:right; width:700px; height:60px;" alt = "NAVER"></a>
 -->
 
-<a href = "https://developers.naver.com/main/"> Naver Developers</a>
+Powered by <a href = "https://developers.naver.com/main/"> Naver Developers</a>
 
 
 개발 : 주식회사 아우룸 101
